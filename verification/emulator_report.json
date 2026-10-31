@@ -1,0 +1,23 @@
+{
+  "result": "PASS",
+  "emulator": "DeSmuME libretro / interpreter",
+  "rom": "iPhone_Dou.nds",
+  "orientation": "90 degrees counterclockwise; main screen left; touchscreen right",
+  "logical_resolution": "384x256 (two 192x256 panels)",
+  "input": "all four rotated d-pad directions; touch; home/unlock swipes; A/B/START",
+  "apps": 16,
+  "audio_peak": 3072,
+  "video_frames": 3804,
+  "app_tick_count": 3803,
+  "seconds": 15.86,
+  "state_symbol": "0x20b99b0",
+  "hardware_tested": false,
+  "sha256": "24ae6ecf8791851491de1b714ecc1a133ad106953c04811fcbbfef36d4a18de4",
+  "language": "English",
+  "keyboard": "QWERTY",
+  "toolchain": {
+    "sdk": "BlocksDS 1.24.0",
+    "compiler": "Wonderful GCC 16.2.0",
+    "application": "Dou OS 2.1 English Fold Edition"
+  }
+}

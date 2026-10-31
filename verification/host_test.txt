@@ -1,0 +1,6 @@
+PASS: rotated touch/d-pad; swipe unlock/home; 16 apps; purchases/photo; calculator; full minigame; keyboard bounds; phone/music/stopwatch; framebuffer bounds; 10000 input frames.
+
+Additional check: QWERTY Y and Z touch targets.
+Compiler flags: -Wall -Wextra -Werror -fsanitize=address,undefined.
+LeakSanitizer disabled because /proc is unavailable in the build sandbox.
+No physical DS/DSi hardware test.

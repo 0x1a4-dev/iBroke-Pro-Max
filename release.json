@@ -1,0 +1,8 @@
+{
+  "tag": "v2.1.0",
+  "title": "iBroke Pro Max v2.1.0 \u2014 English Fold Edition",
+  "rom": "artifacts/iPhone_Dou.nds",
+  "rom_sha256": "24ae6ecf8791851491de1b714ecc1a133ad106953c04811fcbbfef36d4a18de4",
+  "package": "iBroke-Pro-Max-v2.1.0.zip",
+  "notes": "RELEASE_NOTES.md"
+}
